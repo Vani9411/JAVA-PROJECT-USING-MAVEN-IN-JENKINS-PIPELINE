@@ -1,1 +1,1 @@
-# JAVA-PROJECT-USING-MAVEN-IN-JENKINS-PIPELINE
+# jenkins-pipeline-example
